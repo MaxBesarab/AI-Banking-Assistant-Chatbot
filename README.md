@@ -20,3 +20,7 @@ The AI Banking Assistant Chatbot project is an interactive chatbot designed to a
 2. Download the project source code.
 3. Run train_chatbot.py to train the model.
 4. Run chatgui.py to launch the chatbot's graphical interface.
+
+![изображение](https://github.com/MaxBesarab/AI-Banking-Assistant-Chatbot/assets/62891819/66a2c265-f3da-48d4-b7a8-b38ee237898d)
+
+
